@@ -1,0 +1,15 @@
+D:\lucru\FolderSyncApp\FolderSyncApp\bin\Debug\net6.0\FolderSyncApp.exe
+D:\lucru\FolderSyncApp\FolderSyncApp\bin\Debug\net6.0\FolderSyncApp.deps.json
+D:\lucru\FolderSyncApp\FolderSyncApp\bin\Debug\net6.0\FolderSyncApp.runtimeconfig.json
+D:\lucru\FolderSyncApp\FolderSyncApp\bin\Debug\net6.0\FolderSyncApp.dll
+D:\lucru\FolderSyncApp\FolderSyncApp\bin\Debug\net6.0\FolderSyncApp.pdb
+D:\lucru\FolderSyncApp\FolderSyncApp\obj\Debug\net6.0\FolderSyncApp.csproj.AssemblyReference.cache
+D:\lucru\FolderSyncApp\FolderSyncApp\obj\Debug\net6.0\FolderSyncApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\lucru\FolderSyncApp\FolderSyncApp\obj\Debug\net6.0\FolderSyncApp.AssemblyInfoInputs.cache
+D:\lucru\FolderSyncApp\FolderSyncApp\obj\Debug\net6.0\FolderSyncApp.AssemblyInfo.cs
+D:\lucru\FolderSyncApp\FolderSyncApp\obj\Debug\net6.0\FolderSyncApp.csproj.CoreCompileInputs.cache
+D:\lucru\FolderSyncApp\FolderSyncApp\obj\Debug\net6.0\FolderSyncApp.dll
+D:\lucru\FolderSyncApp\FolderSyncApp\obj\Debug\net6.0\refint\FolderSyncApp.dll
+D:\lucru\FolderSyncApp\FolderSyncApp\obj\Debug\net6.0\FolderSyncApp.pdb
+D:\lucru\FolderSyncApp\FolderSyncApp\obj\Debug\net6.0\FolderSyncApp.genruntimeconfig.cache
+D:\lucru\FolderSyncApp\FolderSyncApp\obj\Debug\net6.0\ref\FolderSyncApp.dll
